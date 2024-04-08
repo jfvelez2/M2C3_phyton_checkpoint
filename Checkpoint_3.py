@@ -19,7 +19,7 @@ new_number = age_number + 10
 print(new_number)
 
 #Exercise 5
-last_element = family_list[2]
+last_element = family_list[-1]
 print(last_element)
 
 #Exercise 6
